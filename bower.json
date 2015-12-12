@@ -1,0 +1,24 @@
+{
+  "name": "Laravel",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Amiroo <amiroo.webdeveloper@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.6",
+    "font-awesome": "fontawesome#~4.5.0"
+  }
+}
